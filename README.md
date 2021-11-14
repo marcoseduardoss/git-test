@@ -26,5 +26,5 @@ Nota: "git checkout -b new-branch" é o atalho de "git branch new-branch" seguid
   
 Links úteis:
 --
-https://githowto.com/pt-BR/navigating_branches  
+1. https://githowto.com/pt-BR/navigating_branches  
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
