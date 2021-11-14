@@ -29,5 +29,9 @@ ou
   
   #### Criar e Trocar de branch de uma vez só:
 ###### $ git checkout -b ＜new-branch＞
-
+Nota: git checkout -b <branch name> é o atalho de git branch <branch name> seguido por git checkout <branch name>.
   
+Links úteis:
+--
+https://githowto.com/pt-BR/navigating_branches  
+https://rogerdudler.github.io/git-guide/index.pt_BR.html
