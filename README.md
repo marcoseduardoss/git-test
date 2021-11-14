@@ -11,7 +11,7 @@ Você pode propor mudanças (adicioná-las ao Index) usando ("git add <arquivo>"
 
   #### Se você não clonou um repositório existente e quer conectar seu repositório a um servidor remoto, você deve adicioná-lo com
 ###### $ git remote add origin git@github.com:git/git.git
-Obs.: "origin" não é o nome do repositório remoto. É um alias local definido como uma chave no lugar da URL do repositório remoto. Isso evita que o usuário digite toda a URL remota ao solicitar um push. Por convenção, o repositório remoto padrão é chamado "origem", mas você pode trabalhar com vários controles remotos (com nomes diferentes) ao mesmo tempo. 
+Obs.: "origin" não é o nome do repositório remoto. É um alias local definido como uma chave no lugar da URL do repositório remoto. O uso do alias, evita que o usuário digite toda a URL remota ao solicitar um push. Por convenção, o repositório remoto padrão é chamado "origem", mas você pode trabalhar com vários controles remotos (com nomes diferentes) ao mesmo tempo. 
   
   
   
