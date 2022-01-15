@@ -39,10 +39,7 @@ Links úteis:
 1. https://githowto.com/pt-BR/navigating_branches  
 2. https://rogerdudler.github.io/git-guide/index.pt_BR.html
 
-VM-222
-VM-222.commit1
-TK-001
-TK-001.commit1
-TK-001.commit2
-TK-001.BuGFIX01
-TK-001.commit3
+Commits:
+ - C1
+ - C2
+ - C3
