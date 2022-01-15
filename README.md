@@ -24,6 +24,16 @@ ou
 ###### $ git checkout -b new-branch
 Nota: "git checkout -b new-branch" é o atalho de "git branch new-branch" seguido por "git checkout new-branch".
   
+```java
+Document doc = Jsoup.connect("http://en.wikipedia.org/").get();
+log(doc.title());
+Elements newsHeadlines = doc.select("#mp-itn b a");
+for (Element headline : newsHeadlines) {
+  log("%s\n\t%s", 
+    headline.attr("title"), headline.absUrl("href"));
+}
+```  
+  
 Links úteis:
 --
 1. https://githowto.com/pt-BR/navigating_branches  
